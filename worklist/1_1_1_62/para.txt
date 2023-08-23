@@ -1,9 +1,0 @@
-./data/worklist/1_1_1_62/wave.txt
-./data/worklist/1_1_1_62/nodeX.txt
-./data/worklist/1_1_1_62/nodeY.txt
-./data/worklist/1_1_1_62/nodeZ.txt
-./data/worklist/1_1_1_62/cellCon.txt
-./data/worklist/1_1_1_62/srcPath.txt
-./data/worklist/1_1_1_62/rcvPath.txt
-./data/worklist/1_1_1_62/timechannel.txt
-./data/worklist/1_1_1_62/data.txt
